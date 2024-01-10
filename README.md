@@ -17,7 +17,6 @@ The objective of this repo is to consolidate in a single place all my participat
 | Date<br>dd/mm/yy     | Event          | Contribution | Lang. |
 |:--------------------:|----------------|-------------|:----:|
 | December 07, 2023 | [The Developer Conference: Future - Porto Alegre](https://thedevconf.com/tdc/2023/future/trilha-arquitetura-java) | Speaker: Conceitos de arquitetura antes de construir sua aplicação de GenAI em Java | :brazil: |
-| November 11, 2023 | [CPBR14 - Campus Party Brasil 2022](https://app.4.events/palestrante-yugo-sakamoto-1993-c18443) | Speaker: 4 passos para você tomar decisões técnicas certeiras | 🇧🇷 |
 | November 4, 2023 | [International Dev Career Day 2023](https://hopin.com/events/dev-career-day-2023/registration) | Speaker: How software architecture concepts can help you with your projects decisions | :us: |
 | September 21, 2023 | [The Developer Conference: Business - São Paulo](https://thedevconf.com/tdc/2023/business/trilha-arquitetura-java) | Coordinator of Java Architecture track | 🇧🇷 |
 | September 14, 2023 | [Google Developer Groups meetup](https://gdg.community.dev/events/details/google-gdg-nova-lima-presents-esquenta-tdc-business-arquitetura-java/) | Speaker: Esquenta TDC Business: Arquitetura Java | :brazil: |
@@ -30,6 +29,7 @@ The objective of this repo is to consolidate in a single place all my participat
 | May 20, 2023 | [1° JavaDay do IF Sul de Minas - Campus Poços de Caldas](https://java-day.pcs.ifsuldeminas.edu.br/#palestrantes) | Speaker: 4 conceitos de arquitetura que todo desenvolvedor precisa conhecer | :brazil: |
 | April 05, 2023 | [CPBSB5 - Campus Party Brasília 2023](https://app.4.events/palestrante-yugo-sakamoto-2465-c18443) | Organizer of Campus Jobs stage | :brazil: |
 | March 24, 2023 | [The Developer Conference: Connection - Belo Horizonte](https://thedevconf.com/tdc/2023/connections/trilha-arquitetura-java) | Coordinator of Java Architecture track | :brazil: |
+| November 11, 2022 | [CPBR14 - Campus Party Brasil 2022](https://app.4.events/palestrante-yugo-sakamoto-1993-c18443) | Speaker: 4 passos para você tomar decisões técnicas certeiras | 🇧🇷 |
 | November 13, 2021 | SouJava na Campus 2021 | Speaker: [Arquitetura Evolutiva: Conceitos para ser um melhor arquiteto e liderar seu time - SouJava na Campus](https://www.youtube.com/watch?v=Pdbdnqv2k7Q) | :brazil: |
 | January 20, 2021 | Jax JUG Low Hanging Skills for Software Developers Conference | Speaker: [Low Hanging Evolutionary Architecture](https://www.youtube.com/watch?v=D-ErrlY5LO8) | :us: |
 

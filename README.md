@@ -16,8 +16,8 @@ The objective of this repo is to consolidate in a single place all my participat
 
 | Date<br>dd/mm/yy     | Event          | Contribution | Lang. |
 |:--------------------:|----------------|-------------|:----:|
-| January 27, 2024 | [Workshop at SouJava](https://event.sessions.us/jtutinhas/crossing-the-chasm-constua-sua-primeira-aplicacao-java-integrando-com-llm) | Instructor: Crossing the Chasm! Constua sua primeira aplicação Java integrando com LLM | :brazil: |
-| January 10, 2024 | Jax JUG Meetup [Cross the Chasm! Build Your First LLM-Powered Web App with Java](https://www.meetup.com/jacksonville-java-user-group-jaxjug/events/298195433/) | Speaker: Cross the Chasm! Build Your First LLM-Powered Web App with Java | :us: |
+| January 27, 2024 | [Workshop at SouJava](https://event.sessions.us/jtutinhas/crossing-the-chasm-constua-sua-primeira-aplicacao-java-integrando-com-llm) | Instructor: Crossing the Chasm! Constua sua primeira aplicação Java integrando com LLM | :us: |
+| January 10, 2024 | Jax JUG Meetup | Speaker: [Cross the Chasm! Build Your First LLM-Powered Web App with Java](https://www.meetup.com/jacksonville-java-user-group-jaxjug/events/298195433/) | :us: |
 | December 07, 2023 | [The Developer Conference: Future - Porto Alegre](https://thedevconf.com/tdc/2023/future/trilha-arquitetura-java) | Speaker: Conceitos de arquitetura antes de construir sua aplicação de GenAI em Java | :brazil: |
 | November 4, 2023 | [International Dev Career Day 2023](https://hopin.com/events/dev-career-day-2023/registration) | Speaker: How software architecture concepts can help you with your projects decisions | :us: |
 | September 21, 2023 | [The Developer Conference: Business - São Paulo](https://thedevconf.com/tdc/2023/business/trilha-arquitetura-java) | Coordinator of Java Architecture track | 🇧🇷 |

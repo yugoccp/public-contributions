@@ -32,6 +32,14 @@ The objective of this repo is to consolidate in a single place all my participat
 | April 05, 2023 | [CPBSB5 - Campus Party Brasília 2023](https://app.4.events/palestrante-yugo-sakamoto-2465-c18443) | Organizer of Campus Jobs stage | :brazil: |
 | March 24, 2023 | [The Developer Conference: Connection - Belo Horizonte](https://thedevconf.com/tdc/2023/connections/trilha-arquitetura-java) | Coordinator of Java Architecture track | :brazil: |
 | November 11, 2022 | [CPBR14 - Campus Party Brasil 2022](https://app.4.events/palestrante-yugo-sakamoto-1993-c18443) | Speaker: 4 passos para você tomar decisões técnicas certeiras | 🇧🇷 |
+| October 01, 2022 | [Campus na Estrada](http://tinyurl.com/bdz9r7e9) - FATEC Jales | Speaker: Arquitetura de Software: Conceitos e tecnologias para crescer na carreira | 🇧🇷 |
+| September 30, 2022 | [Campus na Estrada](http://tinyurl.com/bdz9r7e9) - IFSP Votuporanga | Speaker: Arquitetura de Software: Conceitos e tecnologias para crescer na carreira | 🇧🇷 |
+| September 29, 2022 | [Campus na Estrada](http://tinyurl.com/bdz9r7e9) - ETEC São José do Rio Preto | Speaker: Arquitetura de Software: Conceitos e tecnologias para crescer na carreira | 🇧🇷 |
+| September 28, 2022 | [Campus na Estrada](http://tinyurl.com/bdz9r7e9) - ETEC PIrassununga | Speaker: Arquitetura de Software: Conceitos e tecnologias para crescer na carreira | 🇧🇷 |
+| September 28, 2022 | [Campus na Estrada](http://tinyurl.com/bdz9r7e9) - FATEC Bauru | Speaker: Arquitetura de Software: Conceitos e tecnologias para crescer na carreira | 🇧🇷 |
+| September 27, 2022 | [Campus na Estrada](http://tinyurl.com/bdz9r7e9) - UFSCar | Speaker: Arquitetura de Software: Conceitos e tecnologias para crescer na carreira | 🇧🇷 |
+| September 27, 2022 | [Campus na Estrada](http://tinyurl.com/bdz9r7e9) - USP ICMC | Speaker: Arquitetura de Software: Conceitos e tecnologias para crescer na carreira | 🇧🇷 |
+| September 26, 2022 | [Campus na Estrada](http://tinyurl.com/bdz9r7e9) - IFSP Bragança Paulista | Speaker: Arquitetura de Software: Conceitos e tecnologias para crescer na carreira | 🇧🇷 |
 | November 13, 2021 | SouJava na Campus 2021 | Speaker: [Arquitetura Evolutiva: Conceitos para ser um melhor arquiteto e liderar seu time - SouJava na Campus](https://www.youtube.com/watch?v=Pdbdnqv2k7Q) | :brazil: |
 | January 20, 2021 | Jax JUG Low Hanging Skills for Software Developers Conference | Speaker: [Low Hanging Evolutionary Architecture](https://www.youtube.com/watch?v=D-ErrlY5LO8) | :us: |
 

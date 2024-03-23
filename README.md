@@ -16,7 +16,7 @@ The objective of this repo is to consolidate in a single place all my participat
 
 | Date<br>dd/mm/yy     | Event          | Contribution | Lang. |
 |:--------------------:|----------------|-------------|:----:|
-| February 26, 2024| [SouJava + IFood Meetup](https://www.meetup.com/pt-BR/soujava/events/298981832/) | Organizer | 🇧🇷 |
+| February 26, 2024| [SouJava + IFood Meetup](https://www.meetup.com/pt-BR/soujava/events/298981832/) | Organizer for talks: Dapr for Java developers (Maurício Salatino & Matheus Cruz) & Simplifying NoSQL Database Integration with Jakarta NoSQL: A Hands-on Approach (Max Arruda)| 🇧🇷 |
 | January 27, 2024 | [Workshop at SouJava](https://event.sessions.us/jtutinhas/crossing-the-chasm-constua-sua-primeira-aplicacao-java-integrando-com-llm) | Instructor: Crossing the Chasm! Constua sua primeira aplicação Java integrando com LLM | :us: |
 | January 10, 2024 | [Jax JUG Meetup](https://www.meetup.com/jacksonville-java-user-group-jaxjug/events/298195433/) | Speaker: [Cross the Chasm! Build Your First LLM-Powered Web App with Java](https://www.youtube.com/watch?v=dRrWr83CKBM) | :us: |
 | December 07, 2023 | [The Developer Conference: Future - Porto Alegre](https://thedevconf.com/tdc/2023/future/trilha-arquitetura-java) | Speaker: Conceitos de arquitetura antes de construir sua aplicação de GenAI em Java | :brazil: |
@@ -28,7 +28,7 @@ The objective of this repo is to consolidate in a single place all my participat
 | June 16, 2023 | [The Developer Conference: Innovation - Florianópolis](https://thedevconf.com/tdc/2023/innovation/trilha-arquitetura-java) | Coordinator of Java Architecture track | :brazil: |
 | June 12, 2023 | [CPGoiás3 - Campus Party Goiás 2023](https://brasil.campus-party.org/cpgoias3/) | Interviewed by GOINOVACAST: [#04 - Especial Campus Party - Palestrante Yugo Sakamoto à Excelência em Desenvolvimento de Software](https://www.youtube.com/watch?v=h212WAgANKY) | :brazil: |
 | June 09, 2023 | [CPGoiás3 - Campus Party Goiás 2023](https://app.4.events/palestrante-yugo-sakamoto-2718-c18443)| Campus Jobs stage organizer and Speaker: 4 conceitos de arquitetura para se tornar um desenvolvedor eficaz e crescer na sua carreira| :brazil: |
-| May 24, 2023 | Google Developer Groups meetup [Esquenta TDC: Carreira e Desenvolvimento](https://gdg.community.dev/events/details/google-gdg-nova-lima-presents-meetup-esquenta-tdc-carreira-e-desenvolvimento/) | Co-Organizer | :brazil: |
+| May 24, 2023 | Google Developer Groups meetup [Esquenta TDC: Carreira e Desenvolvimento](https://gdg.community.dev/events/details/google-gdg-nova-lima-presents-meetup-esquenta-tdc-carreira-e-desenvolvimento/) | Organizer | :brazil: |
 | May 20, 2023 | [1° JavaDay do IF Sul de Minas - Campus Poços de Caldas](https://java-day.pcs.ifsuldeminas.edu.br/#palestrantes) | Speaker: 4 conceitos de arquitetura que todo desenvolvedor precisa conhecer | :brazil: |
 | April 05, 2023 | [CPBSB5 - Campus Party Brasília 2023](https://app.4.events/palestrante-yugo-sakamoto-2465-c18443) | Organizer and Host of Campus Jobs stage | :brazil: |
 | March 24, 2023 | [The Developer Conference: Connection - Belo Horizonte](https://thedevconf.com/tdc/2023/connections/trilha-arquitetura-java) | Coordinator of Java Architecture track | :brazil: |

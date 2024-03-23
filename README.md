@@ -16,6 +16,7 @@ The objective of this repo is to consolidate in a single place all my participat
 
 | Date<br>dd/mm/yy     | Event          | Contribution | Lang. |
 |:--------------------:|----------------|-------------|:----:|
+| February 26, 2024| [SouJava + IFood Meetup](https://www.meetup.com/pt-BR/soujava/events/298981832/) | Organizer | 🇧🇷 |
 | January 27, 2024 | [Workshop at SouJava](https://event.sessions.us/jtutinhas/crossing-the-chasm-constua-sua-primeira-aplicacao-java-integrando-com-llm) | Instructor: Crossing the Chasm! Constua sua primeira aplicação Java integrando com LLM | :us: |
 | January 10, 2024 | [Jax JUG Meetup](https://www.meetup.com/jacksonville-java-user-group-jaxjug/events/298195433/) | Speaker: [Cross the Chasm! Build Your First LLM-Powered Web App with Java](https://www.youtube.com/watch?v=dRrWr83CKBM) | :us: |
 | December 07, 2023 | [The Developer Conference: Future - Porto Alegre](https://thedevconf.com/tdc/2023/future/trilha-arquitetura-java) | Speaker: Conceitos de arquitetura antes de construir sua aplicação de GenAI em Java | :brazil: |
